@@ -113,16 +113,4 @@ if __name__ == '__main__':
     finally:
         print("")
 
-#self = socket.socket()
-#rec = ""
-#self.connect(("10.255.88.75",9100))
-#self.send("%-12345X@PJL INFO ID\r\n %-12345X")
-#self.send("@PJL INFO ID\r\n")
-#self.settimeout(2)
-#self.close()
-#print(rec)
-#self.send("@PJL INFO VARIABLES\r\n")
-#rec = self.recv(4096)
-#print(rec)
-#self.close()
 
